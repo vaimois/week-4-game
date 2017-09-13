@@ -1,0 +1,96 @@
+body {
+  background-image: url("../images/Sun_crystal_collector_small.jpg");
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+
+::selection {
+    background: #8e44ad;
+    text-shadow: none;
+}
+
+h1 {
+  position: relative;
+  top: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 80px;
+  color: #e67e22;
+  text-shadow: 2px 2px 3px #000;
+}
+
+#red, #green, #blue, #yellow {
+  height: 100px;
+  width: 100px;
+
+}
+
+.instructions {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: yellow;
+    background-color: #071508;
+    width: 85%;
+    clear: both;
+    margin-top: 20px;
+    border: solid 3px #526b01;
+    margin-left: 63px;
+    top: 300px;
+.number {
+  position: relative;
+  top: 450px;
+  right: 100px;
+  text-align: center;
+
+}
+
+
+.outcome {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: rgba(255, 161, 61, 0.29);;
+  display: inline-block;
+  padding: 15px 20px 10px 15px;
+  margin-top: 20px;
+  margin-left: -462px;
+  border-radius: 25px;
+  color: #20bd05;
+  fdeont-size: 80px;
+  color: #e67e22;
+  text-align: center;
+
+}
+
+.power {
+  position: relative;
+  top: 450px;
+  right: 100px;
+  text-align: center;
+   font-size: 80px;
+  color: #e67e22;
+
+}
+
+.score {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: rgba(255, 161, 61, 0.29);;
+  display: inline-block;
+  padding: 15px 20px 10px 15px;
+  margin-top: 20px;
+  margin-left: -462px;
+  border-radius: 25px;
+  color: #20bd05;
+  fdeont-size: 80px;
+  color: #e67e22;
+  text-align: center;
+
+}
+
+.math {
+  position: relative;
+  top: 450px;
+  right: 100px;
+  text-align: center;
+   font-size: 80px;
+  color: #e67e22;
+
+}
+
